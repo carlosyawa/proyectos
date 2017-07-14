@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4BC240E3-E06B-415C-8C20-42D8A821088F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>Sistema_Colegio</RootNamespace>
+    <AssemblyName>eci</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Console</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Juan\Desktop\app\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>.\</OutputPath>
+    <DocumentationFile>eci.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>eci.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>93D93CFA351A187F8C1BAB8FE5D3EB5B7B7150FC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Sistema Colegio1_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmLista de Puntajes.Designer.vb">
+      <DependentUpon>FrmLista de Puntajes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLista de Puntajes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDocumentacón.Designer.vb">
+      <DependentUpon>FrmDocumentacón.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDocumentacón.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maria.Designer.vb">
+      <DependentUpon>Maria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Maria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel.Designer.vb">
+      <DependentUpon>Manuel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Martha.Designer.vb">
+      <DependentUpon>Martha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Martha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alex.Designer.vb">
+      <DependentUpon>Alex.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alex.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opcion Apoderado.Designer.vb">
+      <DependentUpon>Opcion Apoderado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Opcion Apoderado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opcion Docente.Designer.vb">
+      <DependentUpon>Opcion Docente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Opcion Docente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opcion Matricula.Designer.vb">
+      <DependentUpon>Opcion Matricula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Opcion Matricula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opcion Notas.Designer.vb">
+      <DependentUpon>Opcion Notas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Opcion Notas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carlos.Designer.vb">
+      <DependentUpon>Carlos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Carlos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PromedioAumno.Designer.vb">
+      <DependentUpon>PromedioAumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PromedioAumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Walter.Designer.vb">
+      <DependentUpon>Walter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Walter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerardo.Designer.vb">
+      <DependentUpon>Gerardo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerardo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaHorariosDocentes.Designer.vb">
+      <DependentUpon>ConsultaHorariosDocentes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaHorariosDocentes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroNotas.Designer.vb">
+      <DependentUpon>RegistroNotas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroNotas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroEspecialidad.Designer.vb">
+      <DependentUpon>RegistroEspecialidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroEspecialidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroHorario.Designer.vb">
+      <DependentUpon>RegistroHorario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroHorario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.vb">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="DetalleNotas.Designer.vb">
+      <DependentUpon>DetalleNotas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleNotas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroApoderado.Designer.vb">
+      <DependentUpon>RegistroApoderado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroApoderado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroAlumno.Designer.vb">
+      <DependentUpon>RegistroAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aulas.Designer.vb">
+      <DependentUpon>Aulas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aulas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroParentesco.Designer.vb">
+      <DependentUpon>RegistroParentesco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroParentesco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro Año Escolar.Designer.vb">
+      <DependentUpon>Registro Año Escolar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registro Año Escolar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroMatriculas.Designer.vb">
+      <DependentUpon>RegistroMatriculas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroMatriculas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro Docente.Designer.vb">
+      <DependentUpon>Registro Docente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registro Docente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reporte De Apoderados.Designer.vb">
+      <DependentUpon>Reporte De Apoderados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte De Apoderados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Promedios.Designer.vb">
+      <DependentUpon>Consulta Promedios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Promedios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte Total Recaudado.Designer.vb">
+      <DependentUpon>Reporte Total Recaudado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte Total Recaudado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmLista de Puntajes.resx">
+      <DependentUpon>FrmLista de Puntajes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDocumentacón.resx">
+      <DependentUpon>FrmDocumentacón.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maria.resx">
+      <DependentUpon>Maria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel.resx">
+      <DependentUpon>Manuel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Martha.resx">
+      <DependentUpon>Martha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alex.resx">
+      <DependentUpon>Alex.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opcion Apoderado.resx">
+      <DependentUpon>Opcion Apoderado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opcion Docente.resx">
+      <DependentUpon>Opcion Docente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opcion Matricula.resx">
+      <DependentUpon>Opcion Matricula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opcion Notas.resx">
+      <DependentUpon>Opcion Notas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Carlos.resx">
+      <DependentUpon>Carlos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PromedioAumno.resx">
+      <DependentUpon>PromedioAumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Walter.resx">
+      <DependentUpon>Walter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerardo.resx">
+      <DependentUpon>Gerardo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaHorariosDocentes.resx">
+      <DependentUpon>ConsultaHorariosDocentes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroNotas.resx">
+      <DependentUpon>RegistroNotas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroEspecialidad.resx">
+      <DependentUpon>RegistroEspecialidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroHorario.resx">
+      <DependentUpon>RegistroHorario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleNotas.resx">
+      <DependentUpon>DetalleNotas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroApoderado.resx">
+      <DependentUpon>RegistroApoderado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroAlumno.resx">
+      <DependentUpon>RegistroAlumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aulas.resx">
+      <DependentUpon>Aulas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroParentesco.resx">
+      <DependentUpon>RegistroParentesco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro Año Escolar.resx">
+      <DependentUpon>Registro Año Escolar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroMatriculas.resx">
+      <DependentUpon>RegistroMatriculas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro Docente.resx">
+      <DependentUpon>Registro Docente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte De Apoderados.resx">
+      <DependentUpon>Reporte De Apoderados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Promedios.resx">
+      <DependentUpon>Consulta Promedios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte Total Recaudado.resx">
+      <DependentUpon>Reporte Total Recaudado.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Sistema Colegio1_ClaveTemporal.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono-check.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENTRAR%2520BOTON.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SALIR20BOTON - copia.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cabecera.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alumno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alumno1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alumno2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alumno-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animated-sound-waves-s-2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aula.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aula1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aula2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cabecera1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Curso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Degradado2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_network_hub.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_matriculas_pagadas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono-check1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Insignia.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Insignia-NIXA.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Matricula1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Matricula2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Matricular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Matricular2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Padre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Padre1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Padre2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FOndo11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENTRAR BOTON.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Cole.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9404196-fondo-tecnologico-azul-ilustracion-vectorial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-tecnolgico.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tecnologia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dareschool.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton_agregar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton_agregar2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOTON%2520IR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BotonIr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flecha-derecha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOTON-Molde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Consultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Listar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mostrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondooo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\utr.png" />
+    <None Include="Resources\sistema-0139.gif" />
+    <None Include="Resources\resize-img.jpg" />
+    <None Include="Resources\login.gif" />
+    <None Include="Resources\escuela-y-colegio-imagen-animada-0034.gif" />
+    <None Include="Resources\escuela-y-colegio-imagen-animada-0063.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,40 @@
+package Black_Model;
+
+import javax.swing.ImageIcon;
+import javax.swing.JLabel;
+import javax.swing.SwingConstants;
+
+/*
+ * Visual Representation of Card
+ * 
+ * Remarks:
+ * Render Card Image as ImageIcon (only GIF images supported)
+ *
+ */
+public class CardUI extends JLabel {
+	private static final long serialVersionUID = 2L;
+	
+	String path;
+	public CardUI(String path) {
+		this.path = path;
+		ImageIcon ico = new ImageIcon(CardUI.class.getResource(path));
+		setIcon(ico);
+		setHorizontalAlignment(SwingConstants.CENTER);
+		setVerticalAlignment(SwingConstants.CENTER);
+	}
+	
+	/*
+	 * Change the Display Image to back of card image
+	 */
+	public void HideCard() {
+		setIcon(new ImageIcon(CardUI.class.getResource("/Black_images/back.gif")));
+	}
+	
+	/*
+	 * Revert the original Image of card 
+     *
+	 */
+	public void ShowCard() {
+		setIcon(new ImageIcon(CardUI.class.getResource(path)));
+	}
+}

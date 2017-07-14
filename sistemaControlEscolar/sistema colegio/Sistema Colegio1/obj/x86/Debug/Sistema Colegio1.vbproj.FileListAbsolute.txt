@@ -1,0 +1,1229 @@
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form10.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form3.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form4.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form5.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form6.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form7.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form8.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form9.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form11.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form12.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form14.resources
+C:\Users\Alex\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form13.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form10.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form11.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form12.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form13.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form14.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form2.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form3.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form4.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form5.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form6.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form7.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form8.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form9.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+F:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+F:\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrin.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MDIParent1.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Cursos.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horarios.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegNotas.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\LAB06-03\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Cursos.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horarios.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegNotas.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MDIParent1.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrin.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Cursos.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horarios.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegNotas.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MDIParent1.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrin.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sistema x Revisar\Proyecto Sistema NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Cursos.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horarios.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegNotas.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrin.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tavara\Desktop\Sistema x Revisar\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Cursos.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horarios.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegNotas.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrin.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Lab04\Desktop\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Cursos.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegNotas.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrin.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form2.resources
+F:\IDAT  III CICLO\Sistema Colegio NIXA\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form2.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Cursos.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegNotas.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tavara\Desktop\Sistema Colegio1\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+G:\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+G:\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+G:\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmRegistroNotas.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Paula\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+G:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+G:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+H:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+H:\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tavara\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+G:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmNotas.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmNotas.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+H:\Sistema\Sistema\Sistema_Colegio_Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\Alex\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+C:\Users\Tavara\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Paula\Desktop\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+H:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Don Luis\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+F:\IDAT  III CICLO\INGENIERIA DE SISTEMAS\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+C:\Users\Tavara\Desktop\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+D:\cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+D:\cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.read.119.tlog
+E:\Cris\IDAT\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Cris\IDAT\III CICLO\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+E:\Cris\IDAT\III CICLO\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+E:\Cris\IDAT\III CICLO\Sistema Colegio Nixa\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.exe
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.pdb
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\bin\Debug\Sistema Colegio1.xml
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\JHONATAN\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Sistema Colegio.exe.config
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio.TrustInfo.xml
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio.exe.manifest
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio.application
+C:\Users\Juan\Desktop\bin\Debug\COLEGIO.mdf
+C:\Users\Juan\Desktop\bin\Debug\COLEGIO_log.ldf
+C:\Users\Juan\Desktop\Sistema Colegio.exe.manifest
+C:\Users\Juan\Desktop\Sistema Colegio.application
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio.exe
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio.xml
+C:\Users\Juan\Desktop\Sistema Colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio.pdb
+C:\Users\Juan\Desktop\Sistema Colegio.exe
+C:\Users\Juan\Desktop\Sistema Colegio.pdb
+C:\Users\Juan\Desktop\Sistema Colegio.xml
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\Sistema Colegio.exe.config
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\Sistema Colegio.exe.manifest
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\Sistema Colegio.application
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\Sistema Colegio.exe
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\Sistema Colegio.pdb
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\Sistema Colegio.xml
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\Sistema Colegio1.exe.config
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.exe.config
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.TrustInfo.xml
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe.manifest
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.application
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.exe.manifest
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.application
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.exe
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.pdb
+C:\Users\Juan\Desktop\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.xml
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.exe.config
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.exe
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.pdb
+C:\Users\JHONATAN\Desktop\ApiSoft - School V1.a0\ApiSoft - School V1.0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.xml
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.exe.config
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.exe
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.xml
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.pdb
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.exe
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.pdb
+H:\The Soft Team Archivos\Proyectos\ApiSoft - School V1.a0\Código Fuente Visual Basic + Archivos de BD\ApiSoft - V1.0\Sistema Colegio1\Sistema Colegio1.xml
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.exe.config
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.exe
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.xml
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.pdb
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.exe
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.pdb
+C:\Users\ç\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.xml
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.exe.config
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.exe
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.xml
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.pdb
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbprojResolveAssemblyReference.cache
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Francisco.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Doris.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Pedro.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Mariela.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.exe
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.pdb
+C:\Users\CARLOS23\Desktop\Apisoft School v1.0 by StartTecPeru\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.xml
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.exe.config
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.exe
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.xml
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\eci.pdb
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbprojResolveAssemblyReference.cache
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Manuel.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Martha.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Carlos.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Gerardo.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.exe
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.pdb
+C:\Users\CARLOS23\Desktop\integradora\ApiSoft - V1.0 Código Fuente\Sistema Colegio1\eci.xml
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\eci.exe.config
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\eci.exe
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\eci.xml
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\eci.pdb
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbprojResolveAssemblyReference.cache
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Form1.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.FrmDocumentacón.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Maria.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Manuel.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Martha.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Alex.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Apoderado.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Docente.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Matricula.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Opcion_Notas.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Carlos.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.PromedioAumno.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Walter.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Gerardo.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.ConsultaHorariosDocentes.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegistroNotas.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Inicio.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Login.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Especialidad.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Horario.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.MenuPrincipal.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.DetalleNotas.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegApod.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAl.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Aula.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Parentesco.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegAño.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegMatr.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.RegDoce.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Resources.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_De_Apoderados.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_de_Detalle_de_Notas.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema_Colegio.Reporte_Total_Recaudado.resources
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\obj\x86\Debug\Sistema Colegio1.vbproj.GenerateResource.Cache
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\eci.exe
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\eci.pdb
+C:\Users\CARLOS23\Desktop\integradora\sistema colegio\Sistema Colegio1\eci.xml
