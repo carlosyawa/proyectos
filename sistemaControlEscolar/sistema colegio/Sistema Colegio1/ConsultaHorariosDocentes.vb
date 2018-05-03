@@ -9,6 +9,7 @@
         If ComboBox1.SelectedIndex = 1 Then
             Dim m As New Manuel
             m.ShowDialog()
+            m.ShowDialog()
         ElseIf ComboBox1.SelectedIndex = 2 Then
             Dim m As New Maria
             m.ShowDialog()
